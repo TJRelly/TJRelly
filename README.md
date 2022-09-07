@@ -1,4 +1,4 @@
-Hi ![](<div class="tenor-gif-embed" data-postid="15860257" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-hello-wave-waving-greet-gif-15860257">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)My name is TJ Jackson
+Hi ![]([<div class="tenor-gif-embed" data-postid="15860257" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-hello-wave-waving-greet-gif-15860257">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://c.tenor.com/Ti67GkC7B6wAAAAd/hi-hello.gif))My name is TJ Jackson
 ==================================================================================================================================
 
 I love to learn and coding is such an intriguing pursuit.
