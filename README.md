@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TJ Jackson
-==================================================================================================================================
+Hi 👋 My name is TJ Jackson
+===========================
 
 I love to learn and coding is such an intriguing pursuit.
 
@@ -25,10 +25,10 @@ I love to learn and coding is such an intriguing pursuit.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TJRelly"><img src="https://github-readme-stats.vercel.app/api?username=TJRelly&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TJRelly's GitHub stats" /></a>
+<a href="http://www.github.com/TJRelly"><img src="https://github-readme-stats.vercel.app/api?username=TJRelly&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=84cc16&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="TJRelly's GitHub stats" /></a>
 
-<a href="http://www.github.com/TJRelly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TJRelly&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TJRelly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TJRelly&stroke=84cc16&background=ffffff&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="http://www.github.com/TJRelly"><img src="https://activity-graph.herokuapp.com/graph?username=TJRelly&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/TJRelly"><img src="https://activity-graph.herokuapp.com/graph?username=TJRelly&bg_color=ffffff&color=84cc16&line=84cc16&point=84cc16&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/TJRelly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJRelly&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TJRelly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJRelly&langs_count=10&title_color=84cc16&text_color=84cc16&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
