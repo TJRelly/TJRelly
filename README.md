@@ -1,4 +1,4 @@
-Hi ![]([https://im5.ezgif.com/tmp/ezgif-5-e4ba4994c0.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)))My name is TJ Jackson
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TJ Jackson
 ==================================================================================================================================
 
 I love to learn and coding is such an intriguing pursuit.
