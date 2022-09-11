@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I love to learn, and coding is such an intriguing pursuit.
 
 * 🌍  I'm based in New Jersey
-* 🧠  I'm learning Javascript
+* 🧠  I'm currently learning React
 
 ### Skills
 
