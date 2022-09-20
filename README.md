@@ -1,7 +1,7 @@
 Hi my name is TJ Jackson
 ==================================================================================================================================
 
-I am an enthusiatic learner.
+I am an enthusiatic learner who is passionate about building projects, teaching, and discovering new things.
 
 * 🌍  I'm based in New Jersey
 * 🧠  I'm learning React
