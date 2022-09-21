@@ -1,6 +1,6 @@
 Hi 👋🏾 My name is TJ Jackson
 ===========================
-FullStack Web Developer
+Full Stack Developer
 
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
