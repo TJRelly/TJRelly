@@ -6,7 +6,7 @@ I am an enthusiastic learner who is passionate about building projects, teaching
 
 * 🌍  I'm based in New Jersey
 * 🧠  I'm learning React
-* ⚡  I'm currently enjoying the 100 Day of Code Challege
+* ⚡  I'm enjoying the 100 Day of Code Challege
 
 ### Skills
 
