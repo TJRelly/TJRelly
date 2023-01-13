@@ -1,12 +1,12 @@
-Hi 👋🏾 My name is TJ Jackson
+Hi 👋🏾 I'm TJ
 ===========================
-Full Stack Developer
+Web Developer
 
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
 * 🌍  I'm based in New Jersey
 * 🧠  I'm learning React
-* ⚡  I'm enjoying the 100 Day of Code Challege
+* ⚡  I'm enjoying the 100 Days of Code Challege
 
 ### Skills
 
@@ -27,7 +27,7 @@ I am an enthusiastic learner who is passionate about building projects, teaching
 
 ### Badges
 
-<a href="https://github.com/TJRelly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJRelly&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TJRelly" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJRelly&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
