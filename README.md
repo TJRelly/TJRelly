@@ -1,7 +1,5 @@
 Hi 👋🏾 I'm TJ
 ===========================
-Web Developer
-
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
 * 🌍  I'm based in New Jersey
