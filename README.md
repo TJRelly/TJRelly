@@ -25,4 +25,4 @@ I am an enthusiastic learner who is passionate about building projects, teaching
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/TJRelly/robofriends" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TJRelly&repo=robofriends&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/TJRelly/smart-brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TJRelly&repo=smart-brain&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/TJRelly/smart-brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TJRelly&repo=smart-brain&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
