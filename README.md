@@ -24,5 +24,6 @@ I am an enthusiastic learner who is passionate about building projects, teaching
 <p align="left"> <a href="https://www.github.com/TJRelly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19757256/tj-relly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TJR_Tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <b>Top Repositories</b>
-
+<p align="left">
 <div width="100%" align="center"><a href="https://github.com/TJRelly/smart-brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TJRelly&repo=smart-brain&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</p>
