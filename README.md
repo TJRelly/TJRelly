@@ -3,7 +3,7 @@ Hi 👋🏾 I'm TJ
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
 * 🌍  I'm based in New Jersey
-* 🧠  I'm learning React
+* 🧠  I'm improving my skills in React
 * ⚡  I'm enjoying the 100 Days of Code Challege
 
 ### Skills
