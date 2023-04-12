@@ -2,6 +2,8 @@ Hi 👋🏾 I'm TJ
 ===========================
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 * 🌍  I'm based in New Jersey
 * 🧠  I'm improving my skills in React
 * ⚡  I'm enjoying the 100 Days of Code Challege
