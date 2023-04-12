@@ -2,7 +2,7 @@ Hi 👋🏾 I'm TJ
 ===========================
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrelly&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrelly&show_icons=true&count_private=true&theme=radical)
 
 ### Skills
 
