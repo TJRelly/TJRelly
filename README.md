@@ -1,4 +1,4 @@
-Hi 👋🏾 My name is TJ
+Hi 👋🏾 My name is Terrell
 ===================
 
 Software Developer
