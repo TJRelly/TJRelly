@@ -5,7 +5,7 @@ Software Engineer
 ------------------
 
 I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
-- You can view my portfolio here: <a href="terrelljackson.vercel.app">My Portfolio</a>
+- You can view my portfolio here: <a href="https://terrelljackson.vercel.app/">My Portfolio</a>
 
 ### Skills
 
