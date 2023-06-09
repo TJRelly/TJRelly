@@ -32,10 +32,8 @@ I am an enthusiastic learner who is passionate about building projects, teaching
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tjrelly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrelly&stroke=6366f1&background=ffffff&ring=000000&fire=000000&currStreakNum=6366f1&currStreakLabel=000000&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
-<a href="https://github.com/tjrelly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrelly&langs_count=10&title_color=000000&text_color=6366f1&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/tjrelly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrelly&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tjrelly/smart-brain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjrelly&repo=FaceScanPro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tjrelly/smart-brain-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjrelly&repo=FaceScanPro-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tjrelly/smart-brain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjrelly&repo=smart-brain&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/tjrelly/smart-brain-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjrelly&repo=smart-brain-api&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
