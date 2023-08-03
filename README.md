@@ -4,7 +4,8 @@ Hi 👋🏾 My name is Terrell
 Software Engineer
 ------------------
 
-I am an enthusiastic learner who is passionate about building projects, teaching, and discovering new things.
+Enthusiastic about software engineering, committed to continuous growth and innovative solutions. Strategic thinker crafting elegant problem-solving approaches. Proven experience in front-end and back-end development. Energetically contributing to driving global tech companies forward with fresh perspectives.
+
 - You can view my portfolio here: <a href="https://terrelljackson.vercel.app/" target="_blank">My Portfolio</a>
 
 ### Skills
