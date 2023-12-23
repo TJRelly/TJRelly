@@ -1,4 +1,4 @@
-Hi 👋🏾 My name is Terrell
+Hi 👋🏾 I'm Terrell
 ===================
 
 Software Engineer
