@@ -4,7 +4,7 @@ Hi 👋🏾 I'm Terrell
 Software Engineer
 ------------------
 
-Enthusiastic about software engineering, committed to continuous growth and innovative solutions. Strategic thinker crafting elegant problem-solving approaches. Proven experience in front-end and back-end development. Energetically contributing to driving global tech companies forward with fresh perspectives.
+Enthusiastic about learning, committed to continuous growth and solving problems. Proven experience in front-end and back-end development. Strong interest in AI, how it will affect our future, and its implications in global tech.
 
 - You can view my portfolio here: <a href="https://terrelljackson.vercel.app/" target="_blank">My Portfolio</a>
 
